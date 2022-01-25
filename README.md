@@ -2,7 +2,7 @@
 
 # MyTheme
 
-Custom theme for Arduino IDE platform.
+Custom theme for Arduino IDE platform. This Theme was based on Jeff Thompson's project: https://github.com/jeffThompson/DarkArduinoTheme
 
 ### Installation
 Users should look for the `lib` folder in the following repositories:
