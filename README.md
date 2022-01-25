@@ -12,6 +12,6 @@ Users should look for the `lib` folder in the following repositories:
 
 For the theme update, you must replace and rename the original `theme` folder with the modified one (always make a backup of the original folder if you want to reverse the process)
 
-###Note
+### Note
 
 This theme has only been tested on version 1.8.19. Newer/older versions may not work!
