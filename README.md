@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/Carlos9852/MyTheme/master/Theme.png)
+![screenshot](https://raw.githubusercontent.com/Carlos9852/MyTheme/master/MyTheme.png)
 
 # MyTheme
 
