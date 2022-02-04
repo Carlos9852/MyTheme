@@ -1,6 +1,8 @@
 //A comment
 /* Another comment */
 
+#define pi 3.141592  //constant
+
 int  led = 0x0d; //hexadecimal
 unsigned long  Now = 0; //decimal
 float i = 1.0; //decimal
